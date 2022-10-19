@@ -3,12 +3,12 @@
 Документация по использованию плагина,
 -------------
 
-
+![image](https://user-images.githubusercontent.com/79506370/196702072-7a2b5ed0-dab0-482a-b724-4bd4ad898e80.png)
 
 Документация по фиксу эндер-мира,
 -------------
 
-
+![image](https://user-images.githubusercontent.com/79506370/196701991-c37bc05a-92be-4bd8-b732-0e9a1e85757a.png)
 
 -------------
                                         
